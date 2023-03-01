@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MikeJD47 and I'm currently working on my future of becoming a self-taught App & Game Developer.
+- 👋 Hi, I’m @MikeJD47 and I'm currently working on my future of becoming a self-taught Full-Stack Developer
 - 👀 I’m interested in App develpment, Game Development and some Full-Stack Development
-- 🌱 I’m currently learning Python, HTML&CSS and CS50x. Later I am going to learn JavaScript, CS50W and The Odin Project, Java, Kotlin, Android Development, C#, CS50G, Game design and Development and finnaly ASP.NET and Python AI.
+- 🌱 I’m currently learning learning Full-Stack development through Codecademy. 
 - 💞️ I’m not really looking for colaberations. I want to thourghly learn coding first.
 - 📫 How to reach me: killerinstinct747@gmail.com
 
